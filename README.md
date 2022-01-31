@@ -1,1 +1,1 @@
-# WebGameChatting-React-
+# Dice & Game Chatting App
